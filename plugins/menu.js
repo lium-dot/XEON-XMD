@@ -39,9 +39,9 @@ const seconds = Math.floor(uptime % 60); // Calculate seconds
 const uptimeMessage = `*I am alive now since ${day}d ${hours}h ${minutes}m ${seconds}s*`;
 const runMessage = `*☀️ ${day} Day*\n*🕐 ${hours} Hour*\n*⏰ ${minutes} Minutes*\n*⏱️ ${seconds} Seconds*\n`;
 
-const xtime = moment.tz("Asia/Colombo").format("HH:mm:ss");
-const xdate = moment.tz("Asia/Colombo").format("DD/MM/YYYY");
-const time2 = moment().tz("Asia/Colombo").format("HH:mm:ss");
+const xtime = moment.tz("Africa/Nairobi").format("HH:mm:ss");
+const xdate = moment.tz("Africa/Nairobi").format("DD/MM/YYYY");
+const time2 = moment().tz("Africa/Nairobi").format("HH:mm:ss");
 let pushwish = "";
 
 if (time2 < "05:00:00") {
@@ -125,7 +125,7 @@ const menu = async (m, Matrix) => {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363391979107532@newsletter',
-          newsletterName: "xeonxmd",
+          newsletterName: "Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ",
           serverMessageId: 143
         }
       }
@@ -344,7 +344,7 @@ ${menuResponse}
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363391979107532@newsletter',
-            newsletterName: "xeonxmd",
+            newsletterName: "Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ",
             serverMessageId: 143
           }
         }

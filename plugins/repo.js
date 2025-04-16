@@ -22,7 +22,7 @@ const repo = async (m, gss) => {
       const repoData = response.data;
 
       // Format the repository information
-      const formattedInfo = `*BOT NAME:*\n> ${repoData.name}\n\n*OWNER NAME:*\n> ${repoData.owner.login}\n\n*STARS:*\n> ${repoData.stargazers_count}\n\n*FORKS:*\n> ${repoData.forks_count}\n\n*GITHUB LINK:*\n> ${repoData.html_url}\n\n*DESCRIPTION:*\n> ${repoData.description || "No description"}\n\n*Don't Forget To Star and Fork Repository*\n\n> *© Powered By ObedTechX 🖤*`;
+      const formattedInfo = `*BOT NAME:*\n> ${repoData.name}\n\n*OWNER NAME:*\n> ${repoData.owner.login}\n\n*STARS:*\n> ${repoData.stargazers_count}\n\n*FORKS:*\n> ${repoData.forks_count}\n\n*GITHUB LINK:*\n> ${repoData.html_url}\n\n*DESCRIPTION:*\n> ${repoData.description || "No description"}\n\n*Don't Forget To Star and Fork Repository*\n\n> *© Powered By Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ 🖤*`;
 
       // Send an image with the formatted info as a caption
       await gss.sendMessage(
@@ -57,7 +57,7 @@ const repo = async (m, gss) => {
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: "120363391979107532@newsletter",
-              newsletterName: "ObedTechX",
+              newsletterName: "xeonxmd",
               serverMessageId: 143,
             },
           },

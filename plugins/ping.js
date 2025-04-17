@@ -23,7 +23,7 @@ const ping = async (m, Matrix) => {
     const end = new Date().getTime();
     const responseTime = (end - start) / 1000;
 
-    const text = `*XEON XMD SPEED: ${responseTime.toFixed(2)}ms ${reactionEmoji}*`;
+    const text = `*X𝙴𝙾𝙽-X𝙼𝙳 S𝙿𝙴𝙴𝙳: ${responseTime.toFixed(2)}ms ${reactionEmoji}*`;
 
     await Matrix.sendMessage(m.from, {
       text,
@@ -33,7 +33,7 @@ const ping = async (m, Matrix) => {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363391979107532@newsletter',
-          newsletterName: "xeonxmd",
+          newsletterName: "Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ",
           serverMessageId: 143
         }
       }

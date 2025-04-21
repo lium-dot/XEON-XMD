@@ -29,11 +29,6 @@
 </p>
 </p> 
 
-<p align="center">
-  <a href="https://github.com/Black-Tappy/XEON-XMD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
-</p>
-
-
 ### 1. Fork This Repository
 
 Click the button below to fork:
@@ -58,7 +53,7 @@ Click the button below to fork:
 
 
 
-## ᴄʀᴇᴅɪᴛs ᴀɴᴅ ᴅᴇᴠᴅ
+## ᴄʀᴇᴅɪᴛs ᴀɴᴅ ᴅᴇᴠs
 > XEON-XMD Owner 
 - [Black-Tappy](https://github.com/Black-Tappy)
 - Creater and Owner Of REDMAGIC-XMD 

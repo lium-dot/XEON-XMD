@@ -45,10 +45,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
   <a href="https://github.com/Black-Tappy/XEON-XMD/fork"><img title="XEON-XMD" src="https://img.shields.io/badge/FORK-XEON XMD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
-> Get Pair Code (Session ID)
-
-
-
+## ɢᴇᴛ ᴘᴀɪʀɪɴɢ ᴄᴏᴅᴇ
 <p align="left">  
 <a href='https://popkidxtech-session.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=green'/></a>  
 </p>  <p align="left">  
@@ -56,7 +53,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 </p>  
 
 
-👻 Deploy XEON-XMD 👻
+## 👻 ᴅᴇᴘʟᴏʏ xᴇᴏɴ xᴍᴅ 👻
 
 > Deploy on Heroku
 
@@ -66,37 +63,9 @@ Start by forking this repository to your own GitHub account. Click the button be
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Black-Tappy/XEON-XMD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
 </p>
 
-> Deploy on TaikDrove
 
 
-
-<p align="left">  
-<a href='https://host.talkdrove.com/share-bot/82' target="_blank"><img alt='Deploy on TaikDrove' src='https://img.shields.io/badge/Deploy%20on-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white'/></a>  
-</p>
-
-> Deploy on Koyeb
-
-
-
-<p align="left">  
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=Black-Tappy/XEON-XMD&ports=3000' target="_blank"><img alt='Deploy on Koyeb' src='https://img.shields.io/badge/Deploy%20on-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
-</p>
-
-> View Workflow Codes
-
-
-
-<p align="left">  
-<a href="https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10" target="_blank"><img alt='View Workflow Codes' src='https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white'/></a>  
-</p>  
----
-
-𝐁𝐄𝐒𝐓 𝐁𝐎𝐓 🩷🧋
-
-
----
-
-🏆 Credits & Contributors
+## ᴄʀᴇᴅɪᴛs ᴀɴᴅ ᴅᴇᴠᴅ
 > XEON-XMD Owner 
 - [Black-Tappy](https://github.com/Black-Tappy)
 - Creater and Owner Of REDMAGIC-XMD 

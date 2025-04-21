@@ -1,13 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=XEON-XMD" alt="Typing SVG" /></a>
   </p>
-  
----  
-
-> **`Updated To` The Version 5.0**
----
 
 ```
-XEON-XMD BY Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ 🩷 
+𝐗𝐄𝐎𝐍 𝐗𝐌𝐃 𝐁𝐘 Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ 🩷 
 ```
 
 --- 
@@ -41,14 +36,12 @@ XEON-XMD BY Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ 🩷
 
 ### 1. Fork This Repository
 
-Start by forking this repository to your own GitHub account. Click the button below to fork:
+Click the button below to fork:
 
   <a href="https://github.com/Black-Tappy/XEON-XMD/fork"><img title="XEON-XMD" src="https://img.shields.io/badge/FORK-XEON XMD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 ## ɢᴇᴛ ᴘᴀɪʀɪɴɢ ᴄᴏᴅᴇ
-<p align="left">  
-<a href='https://popkidxtech-session.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=green'/></a>  
-</p>  <p align="left">  
+  <p align="left">  
 <a href='https://popkidxtech-session.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=yellow'/></a>  
 </p>  
 

@@ -91,13 +91,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 </p>  
 ---
 
-⚠️ Disclaimer
-
-🔒 This bot is not affiliated with WhatsApp Inc. Use at your own risk.
-
-🔒 Misuse can lead to WhatsApp account bans.
-
-🔒 The developer is not responsible for bans or misuse.
+𝐁𝐄𝐒𝐓 𝐁𝐎𝐓 🩷🧋
 
 
 ---
@@ -107,7 +101,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 - [Black-Tappy](https://github.com/Black-Tappy)
 - Creater and Owner Of REDMAGIC-XMD 
 > XEON-XMD Helpers 
-- [ROMEKTRICKS](https://github.com/Popkiddevs)
+- [POPKID](https://github.com/Popkiddevs)
 - For helping in bot plugin files.
   
 

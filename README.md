@@ -107,7 +107,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 - [Black-Tappy](https://github.com/Black-Tappy)
 - Creater and Owner Of REDMAGIC-XMD 
 > XEON-XMD Helpers 
-- [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
+- [ROMEKTRICKS](https://github.com/Popkiddevs)
 - For helping in bot plugin files.
   
 

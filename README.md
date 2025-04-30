@@ -1,5 +1,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=XEON-XMD" alt="Typing SVG" /></a>
   </p>
++<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=XEON%20XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+
+
+> **`Updated` XEON XMD with Latest Features**
+
+## CONTACT XEON-XMD TECH
+  
+<a href="https://wa.me/254759000340"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100086056192263&name=xhp_nt__fb__action__open_use"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
+  <a href="https://www.instagram.com/bright_leizer_?igsh=Y2JmcnE1ajNjZXM=&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/Black-Tappy/XEON-XMD/tree/main"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="XEON "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+</p>
+
 
 ```
 𝐗𝐄𝐎𝐍 𝐗𝐌𝐃 𝐁𝐘 Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ 🩷 
